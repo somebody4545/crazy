@@ -32,7 +32,7 @@
             callback: false
         }
     };
-
+ 
     // Constructor
     var jScroll = function($e, options) {
 
